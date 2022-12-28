@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Jennifer :raising_hand_woman: 
+I'm an undergraduate student studying Computer Science with a minor in Complex Systems at the University of Michigan Ann Arbor :part_alternation_mark: Go Blue! Last summer I interned at Northrop Grumman as a Systems Test Engineer. I'm a passionate student :books: with an intrinsic desire to learn more about new scientific breakthroughs and current events in :computer: tech. I love learning new things and I'm always open to working on interesting projects with new people! 
+
+🔭 I’m currently working on a mobile application with [Void Tech](https://github.com/void-tech-um) where I am a developer lead on a team with 8 student devs. 
+
 
 <!--
-**jennweir/jennweir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
