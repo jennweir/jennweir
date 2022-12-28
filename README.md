@@ -7,7 +7,7 @@ I'm an undergraduate student studying Computer Science with a minor in Complex S
 
 🌱 I’m currently learning about blockchain technology and decentralized applications. 
 
-💬 Ask me about daily current events. I read the Wall Street Journal and TLDR newletter daily and enjoy discussing what's happening in the world. 
+💬 Ask me about daily current events. I read the Wall Street Journal and TLDR newsletter daily and enjoy discussing what's happening in the world. 
 
 In my free time I enjoy hot yoga :lotus_position_woman:, exploring the outdoors :mountain:, playing the flute :musical_note:, and watching Michigan football :football:.
 
