@@ -13,4 +13,4 @@ In my free time I enjoy hot yoga :lotus_position_woman:, exploring the outdoors 
 
 ⚡ Fun fact: Last summer I took a class on soldering electrical assemblies and became NASA Solder Certified. 
 
-📫 Reach me at [jenniferp.weir@gmail.com](mailto:jenniferp.weir@gmail.com). I look forward to meeting you! :nerd_face:
+📫 Reach me at [jennweir@umich.edu](mailto:jennweir@umich.edu). I look forward to meeting you! :nerd_face:
