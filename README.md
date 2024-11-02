@@ -5,10 +5,10 @@ I'm a Kubernetes Site Reliability / Platform Engineer at Ford Motor Company work
 
 🔭 In the past, I was VP of Development at [VOID Tech](https://github.com/void-tech-um). As a student org, VOID works on applications that help Michigan students improve and address problems within the student community on campus. 
 
-💬 Ask me about daily current events. I read the [Wall Street Journal](https://www.wsj.com/) and [TLDR](https://tldr.tech/) newsletter daily and enjoy discussing what's happening in the world. 
+💬 Ask me about daily current events. I enjoy discussing what's happening in the world. 
 
 In my free time I enjoy running :runner:, biking :biking_woman:, golfing :golf:, hot yoga :lotus_position_woman:, reading about finance/economics :books:, playing the flute :musical_note:, and watching Michigan football :football:.
 
 ⚡ Fun fact: I took a class on soldering electrical assemblies during my Northrop Grumman internship and became NASA Solder Certified. 
 
-📫 Reach me at [jennweir@umich.edu](mailto:jennweir@umich.edu). I look forward to meeting you! :nerd_face:
+📫 Reach me at [contact@jenniferpweir.com](mailto:contact@jenniferpweir.com). I look forward to meeting you! :nerd_face:
